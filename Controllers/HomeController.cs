@@ -18,6 +18,21 @@ namespace college_cmcs.Controllers
             return View();
         }
 
+        public IActionResult _register()
+        {
+            return View();
+        }
+
+        public IActionResult _login()
+        {
+            return View();
+        }
+
+        public IActionResult _admin()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
